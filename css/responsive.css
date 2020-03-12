@@ -1,0 +1,577 @@
+@media only screen and (min-width: 1200px) {
+    .menu-right {
+        margin-left: 743px;
+    }
+
+    .header-contact .call,
+    .header-contact .msg,
+    .header-contact .location {
+        max-width: 30.33%;
+        flex-basis: 30.33%;
+    }
+
+    .header-contact .call {
+        margin-right: -45px;
+    }
+
+    .header-slider-left p {
+        width: 77%;
+        line-height: 1.8;
+        letter-spacing: 1px;
+    }
+
+    .banner-right-h2 {
+        width: 85%;
+        line-height: 1.5;
+    }
+
+    .our-doctors-h2 {
+        margin: 0 16px 60px;
+        font-size: 12px;
+        width: 48%;
+        line-height: 1.5;
+        letter-spacing: 0.4px;
+    }
+
+    .doctors-image-1,
+    .doctors-image-2,
+    .doctors-image-3,
+    .doctors-image-4,
+    .doctors-image-5,
+    .doctors-image-6 {
+        height: 60vh;
+        width: 100%;
+    }
+
+    .our-pricing-h2 {
+        margin: 0 40px 60px;
+        font-size: 12px;
+        width: 48%;
+        line-height: 1.5;
+        letter-spacing: 0.4px;
+    }
+
+    .logo-image {
+        padding-left: 58px;
+    }
+
+    .logo-image img {
+        margin-right: 60px;
+    }
+
+    .footer-img-1 p,
+    .footer-img-2 p,
+    .footer-img-3 p {
+        left: 95px;
+    }
+
+    .footer-img-1 span,
+    .footer-img-2 span,
+    .footer-img-3 span {
+        left: 95px;
+    }
+
+    .footer-btn {
+        margin-left: 260px;
+    }
+
+    .social-icon {
+        margin-left: 54px;
+    }
+
+    .social-icon i {
+        margin-right: 5px;
+    }
+
+}
+
+@media only screen and (max-width: 1024px) {
+    .footer-btn {
+        margin-left: 208px;
+    }
+
+    .footer-icon h1 {
+        font-size: 15px;
+
+    }
+
+    .social-icon {
+        margin-left: 27px;
+    }
+}
+
+@media only screen and (max-width: 920px) {
+    .location {
+        display: none;
+    }
+
+    .header-contact {
+        margin-left: 280px;
+    }
+
+    .menu-right {
+
+        margin-left: 567px;
+    }
+
+    button.owl-next {
+        margin-right: 19px;
+    }
+
+    .our-doctors-h2 {
+        margin-left: -35px;
+        line-height: 16px;
+    }
+
+    .our-doctors-col {
+        margin-right: 12px;
+        margin-left: 12px;
+
+    }
+
+    .doctors-image-1,
+    .doctors-image-2,
+    .doctors-image-3,
+    .doctors-image-4,
+    .doctors-image-5,
+    .doctors-image-6 {
+        width: 100%;
+
+    }
+
+    .our-services-col {
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+
+    img#logo2 {
+        margin-right: 44px;
+    }
+
+    .logo-image img {
+        margin-right: 77px;
+    }
+
+    .footer-btn {
+        margin-left: 180px;
+    }
+
+    .social-icon {
+        margin-left: 23px;
+    }
+
+    .footer-col p {
+        font-size: 11px;
+
+    }
+}
+
+
+
+@media only screen and (max-width: 768px) {
+    .menu-right {
+        display: none;
+    }
+
+    .header-contact {
+        display: none;
+    }
+
+    .header {
+        width: 786px;
+    }
+
+    .logo {
+        text-align: center;
+        max-width: none;
+    }
+
+    .header-slider {
+        width: 786px;
+    }
+
+    .header-slider-left {
+        max-width: none;
+        margin-left: 0;
+        margin-top: 100px;
+        text-align: center;
+    }
+
+    .header-slider-left h1 {
+        margin: 10px 235px;
+        width: 320px;
+    }
+
+    .header-slider-left h2 {
+        margin: 10px 158px;
+        width: 470px;
+    }
+
+    .header-slider-left p {
+        font-size: 13px;
+        margin: 0 153px 65px;
+        line-height: 18px;
+    }
+
+    button.owl-next {
+        margin-right: 0;
+    }
+
+    .banner-sec {
+        width: 786px;
+        margin: 0;
+    }
+
+    .banner-sec .banner-wrap {
+        display: block;
+    }
+
+    .banner-left {
+        text-align: center;
+    }
+
+    .banner-left img {
+        width: 340px;
+    }
+
+    .banner-right {
+        width: 100%;
+        margin-left: 0;
+        margin-top: 35px;
+        text-align: center;
+    }
+
+    .banner-right-h2 {
+        margin: 0 140px 55px;
+        line-height: 16px;
+    }
+
+    .banner-text-top,
+    .banner-text-bottom {
+        display: flex;
+        margin: 0 60px;
+    }
+
+    .our-doctors-sec {
+        width: 786px;
+    }
+
+    .our-doctors-h2 {
+        margin: 0 130px 60px;
+        transform: none;
+    }
+
+    .doctors-image-1,
+    .doctors-image-2,
+    .doctors-image-3,
+    .doctors-image-4,
+    .doctors-image-5,
+    .doctors-image-6 {
+        height: 160px;
+    }
+
+    .our-services {
+        width: 786px;
+    }
+
+    .our-services-col h1 {
+        font-size: 12px;
+    }
+
+    .our-services-col p,
+    .our-services-col a {
+        font-size: 10px;
+    }
+
+    .our-services .container {
+        width: 90%;
+        margin: auto;
+    }
+
+    .our-pricing {
+        width: 786px;
+    }
+
+    .our-pricing-col h1 {
+        font-size: 20px;
+    }
+
+    .our-pricing-col h2 {
+        font-size: 11px;
+    }
+
+    .price span {
+        font-size: 32px;
+    }
+
+    .our-happy {
+        width: 786px;
+    }
+
+    .our-pricing-h2 {
+        margin: 0 130px;
+        transform: none;
+    }
+
+    .footer-sec {
+        width: 786px;
+    }
+
+    .footer-col {
+        max-width: 50%;
+        flex-basis: 50%;
+    }
+
+    .footer-col.display-none-768 {
+        display: none;
+    }
+
+    p.dental-plus-p {
+        width: 75%;
+    }
+
+    a.footer-btn {
+        margin-left: 253px;
+    }
+
+    .social-icon {
+        margin-left: 70px;
+    }
+
+    .social-icon i {
+        margin-left: 5px;
+    }
+
+
+    @media only screen and (max-width: 480px) {
+        
+        .header {
+            margin-top: -39px;
+        }
+        
+        .header-top {
+            padding: 0;
+        }
+        
+        .logo {
+
+            display: inline-block;
+        }
+        
+        .logo img {
+            margin-top: 18px;
+        }
+        
+        .header {
+            background-color: #FFF;
+        }
+
+        .header .menu {
+            display: none;
+        }
+        
+       .mobile-menu span {
+           display: block;
+           float: left;
+           margin-top: -10px;
+       }
+        
+        .header-slider-left {
+            max-width: none;
+            margin-left: -150px;
+            margin-top: 100px;
+            text-align: center;
+        }
+        
+        .header-slider-left h1 {
+            margin: 10px 257px;
+            width: 265px;
+            font-size: 20px;
+        }
+        
+        .header-slider-left h2 {
+            margin: 10px 200px;
+            width: 380px;
+            font-size: 26px;
+        }
+        
+        .header-slider-left p {
+            font-size: 13px;
+            margin: 0px 192px 65px;
+            line-height: 18px;
+            width: 42%;
+            }
+
+        .header-button {
+            margin-right: 155px;
+        }
+
+        .owl-carousel .owl-nav button.owl-next,
+        .owl-carousel .owl-nav button.owl-prev,
+        .owl-carousel button.owl-dot {
+
+            display: none;
+        }
+        
+        .banner-left img {
+            width: 265px;
+            margin-right: 311px;
+            margin-top: -20px;
+        }
+
+        .banner-right-h1 {
+            margin-right: 311px;
+        }
+        
+        .banner-right-h2 {
+            margin-left: 36px;
+            width: 52%;
+        } 
+        
+        .banner-text-top,
+        .banner-text-bottom {
+            margin-right: 317px;
+            margin-left: 10px;
+        }
+
+      
+        
+        .banner-text-top-left,
+        .banner-text-top-right,
+        .banner-text-bottom-left,
+        .banner-text-bottom-right {
+            width: 60%;
+        }
+        
+        .banner-text-top-right,
+        .banner-text-bottom-right {
+            margin-left: 24px;
+        }
+        
+        .our-doctors-top {
+            margin-right: 306px;
+        }
+
+        .our-doctors-h2 {
+            width: 95%;
+            margin: 0px 9px 60px;
+        }  
+        
+        .our-doctors-row {
+            display: block;
+            width: 110%;
+            margin-left: 47px;
+        }   
+        
+        .our-services-row {
+            margin-left: 42px;
+            display: block;
+
+        }
+        
+        .our-services-col {
+            max-width: 45%;
+            height: 200px;
+        }    
+        
+        .our-services-col p {
+            margin-bottom: 31px;
+
+        }
+        
+        .our-services-col h1 {
+            font-size: 18px;
+        }
+        
+        .our-services-col p,
+        .our-services-col a {
+            font-size: 11px;
+        }
+        
+        .our-pricing-row {
+            margin-left: 36px;
+            display: block;
+        }
+        
+        .our-pricing-col {
+            border: 2px solid rgb(255, 255, 255);
+            height: 388px;
+            width: 46%;
+            margin-bottom: 60px;
+        }
+        
+        .our-pricing-col:hover {
+            border: 2px solid #f69169;
+
+        }
+        
+        .our-pricing-col h1 {
+            font-size: 26px;
+        }
+        
+        .our-pricing-top {
+
+            margin-right: 300px;
+        }
+        
+        .our-pricing-h2 {
+            margin: 0 6px;
+            width: 96%;
+        }
+        
+        .owl-carousel .owl-item img {
+
+            float: none;
+
+        }
+
+        #logo1 {
+            width: 33%;
+        }
+        
+        img#logo2 {
+            margin-left: -99px;
+        }
+        
+        .footer-sec .container {
+            width: 96%;
+        }
+        .footer-col {
+            max-width: 220px;
+        }
+        
+        a.footer-btn {
+            margin-left: 142px;
+        }
+        
+     .footer-icon {
+         display: block;
+         margin-left: 72px;
+     }
+    
+      .footer-icon h1 {
+          margin-bottom: 26px;
+          margin-left: 19px;
+      } 
+        
+       .social-icon {
+           margin-left: -45px;
+       }
+        
+        .footer-last {
+            margin-right: 300px;
+        }     
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+}
